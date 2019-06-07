@@ -1,4 +1,4 @@
-# bayspec
+# BaySpec
 
 BaySpec is a Specification Mining algorithm that uses Bayesian networks that are created with the python library libpgm as an input and finds specifications in the network as most likely paths within the network.
 
